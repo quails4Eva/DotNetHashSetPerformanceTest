@@ -1,0 +1,60 @@
+Elements: 0, int, in range, result: Array time: 76.111111111111111111111111111, HashSet time: 15.416666666666666666666666667
+Elements: 0, int, out of range, result: Array time: 75.972222222222222222222222222, HashSet time: 15.416666666666666666666666667
+Elements: 0, string, in range, result: Array time: 92.77777777777777777777777778, HashSet time: 26.138888888888888888888888889
+Elements: 0, string, out of range, result: Array time: 92.86111111111111111111111111, HashSet time: 26.166666666666666666666666667
+Elements: 0, enum, in range, result: Array time: 68, HashSet time: 14
+Elements: 0, enum, out of range, result: Array time: 68.305555555555555555555555556, HashSet time: 14
+Elements: 1, int, in range, result: Array time: 76, HashSet time: 22
+Elements: 1, int, out of range, result: Array time: 76.055555555555555555555555556, HashSet time: 15.333333333333333333333333333
+Elements: 1, string, in range, result: Array time: 107.25, HashSet time: 53.388888888888888888888888889
+Elements: 1, string, out of range, result: Array time: 107.55555555555555555555555556, HashSet time: 26.111111111111111111111111111
+Elements: 1, enum, in range, result: Array time: 70.472222222222222222222222222, HashSet time: 19.166666666666666666666666667
+Elements: 1, enum, out of range, result: Array time: 71, HashSet time: 14
+Elements: 2, int, in range, result: Array time: 76.805555555555555555555555556, HashSet time: 22
+Elements: 2, int, out of range, result: Array time: 77.194444444444444444444444444, HashSet time: 16.444444444444444444444444444
+Elements: 2, string, in range, result: Array time: 110.61111111111111111111111111, HashSet time: 53.444444444444444444444444444
+Elements: 2, string, out of range, result: Array time: 114.91666666666666666666666667, HashSet time: 27.861111111111111111111111111
+Elements: 2, enum, in range, result: Array time: 71.833333333333333333333333333, HashSet time: 20
+Elements: 2, enum, out of range, result: Array time: 74.333333333333333333333333333, HashSet time: 17.666666666666666666666666667
+Elements: 3, int, in range, result: Array time: 77.666666666666666666666666667, HashSet time: 22
+Elements: 3, int, out of range, result: Array time: 78.166666666666666666666666667, HashSet time: 18
+Elements: 3, string, in range, result: Array time: 117.66666666666666666666666667, HashSet time: 53.694444444444444444444444444
+Elements: 3, string, out of range, result: Array time: 136.22222222222222222222222222, HashSet time: 30.027777777777777777777777778
+Elements: 3, enum, in range, result: Array time: 74.111111111111111111111111111, HashSet time: 19.527777777777777777777777778
+Elements: 3, enum, out of range, result: Array time: 78.111111111111111111111111111, HashSet time: 18
+Elements: 4, int, in range, result: Array time: 78.472222222222222222222222222, HashSet time: 22
+Elements: 4, int, out of range, result: Array time: 79.222222222222222222222222222, HashSet time: 15.777777777777777777777777778
+Elements: 4, string, in range, result: Array time: 123.83333333333333333333333333, HashSet time: 53.555555555555555555555555556
+Elements: 4, string, out of range, result: Array time: 136.11111111111111111111111111, HashSet time: 27.222222222222222222222222222
+Elements: 4, enum, in range, result: Array time: 75.944444444444444444444444444, HashSet time: 19.555555555555555555555555556
+Elements: 4, enum, out of range, result: Array time: 81.58333333333333333333333333, HashSet time: 14.611111111111111111111111111
+Elements: 5, int, in range, result: Array time: 78.944444444444444444444444444, HashSet time: 22
+Elements: 5, int, out of range, result: Array time: 80.36111111111111111111111111, HashSet time: 16.666666666666666666666666667
+Elements: 5, string, in range, result: Array time: 127.19444444444444444444444444, HashSet time: 53.694444444444444444444444444
+Elements: 5, string, out of range, result: Array time: 154.16666666666666666666666667, HashSet time: 26.722222222222222222222222222
+Elements: 5, enum, in range, result: Array time: 79.44444444444444444444444444, HashSet time: 19.444444444444444444444444444
+Elements: 5, enum, out of range, result: Array time: 84.52777777777777777777777778, HashSet time: 16.944444444444444444444444444
+Elements: 6, int, in range, result: Array time: 79.30555555555555555555555556, HashSet time: 22
+Elements: 6, int, out of range, result: Array time: 81.27777777777777777777777778, HashSet time: 17.416666666666666666666666667
+Elements: 6, string, in range, result: Array time: 120.72222222222222222222222222, HashSet time: 53.277777777777777777777777778
+Elements: 6, string, out of range, result: Array time: 145.91666666666666666666666667, HashSet time: 28.638888888888888888888888889
+Elements: 6, enum, in range, result: Array time: 80.61111111111111111111111111, HashSet time: 19.444444444444444444444444444
+Elements: 6, enum, out of range, result: Array time: 88.83333333333333333333333333, HashSet time: 17.555555555555555555555555556
+Elements: 7, int, in range, result: Array time: 79.083333333333333333333333333, HashSet time: 22
+Elements: 7, int, out of range, result: Array time: 82.27777777777777777777777778, HashSet time: 18.027777777777777777777777778
+Elements: 7, string, in range, result: Array time: 138.08333333333333333333333333, HashSet time: 53.388888888888888888888888889
+Elements: 7, string, out of range, result: Array time: 144.02777777777777777777777778, HashSet time: 30
+Elements: 7, enum, in range, result: Array time: 79.44444444444444444444444444, HashSet time: 19.472222222222222222222222222
+Elements: 7, enum, out of range, result: Array time: 92.36111111111111111111111111, HashSet time: 18
+Elements: 8, int, in range, result: Array time: 81.5, HashSet time: 22
+Elements: 8, int, out of range, result: Array time: 83.36111111111111111111111111, HashSet time: 16.527777777777777777777777778
+Elements: 8, string, in range, result: Array time: 142.02777777777777777777777778, HashSet time: 53.527777777777777777777777778
+Elements: 8, string, out of range, result: Array time: 148.25, HashSet time: 29.305555555555555555555555556
+Elements: 8, enum, in range, result: Array time: 85.36111111111111111111111111, HashSet time: 19.333333333333333333333333333
+Elements: 8, enum, out of range, result: Array time: 96.44444444444444444444444444, HashSet time: 15.972222222222222222222222222
+Elements: 9, int, in range, result: Array time: 81.97222222222222222222222222, HashSet time: 22
+Elements: 9, int, out of range, result: Array time: 84.36111111111111111111111111, HashSet time: 17.5
+Elements: 9, string, in range, result: Array time: 145.97222222222222222222222222, HashSet time: 53.527777777777777777777777778
+Elements: 9, string, out of range, result: Array time: 152.19444444444444444444444444, HashSet time: 30.055555555555555555555555556
+Elements: 9, enum, in range, result: Array time: 84.19444444444444444444444444, HashSet time: 19.305555555555555555555555556
+Elements: 9, enum, out of range, result: Array time: 100.16666666666666666666666667, HashSet time: 17.138888888888888888888888889

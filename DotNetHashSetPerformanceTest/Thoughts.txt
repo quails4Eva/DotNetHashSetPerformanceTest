@@ -1,0 +1,11 @@
+﻿
+Arrays are always slower than HashSets when doing contains.
+    The array implementation of Contains is actually for IEnumerable<T> and as such probably isn't optimised for arrays.
+    It will also likely create an enumerator even if the array is empty, which would explain why it is so slow for 0 entries compared to the HashSet implementation (which maintains a count of the entries and can just return false when count is 0).
+
+For arrays, given how close the "in range" and "out of range" it seems like the time to initialise the enumrator dwarfs the cost of iterating
+
+Not in range is quite a bit faster for HashSet than in range - because of bucketing so "misses" only do one comparison, whereas doing "Contains" for an element that shares a bucket with another element involves multiple comparisons
+
+Strings significantly slower than ints (obviously since they consist of multiple characters)
+Enums are a bit slower than ints - makes sense sonve they will be cast to int when hased or compared
